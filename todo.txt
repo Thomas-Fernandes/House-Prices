@@ -1,0 +1,8 @@
+- RSME
+- Modèle linéaire simple (OLS), multiple (MLR) et polynomiale (PLR)
+- On peut paralléliser, pour accélérer le processus
+- On peut faire de la validation croisée
+- Interprétation des coefficients (quand j'augmente de 1 l'année de construction de combien augmente le prix de la maison, etc.)
+
+
+- On peut faire de la régularisation (Ridge, Lasso, ElasticNet)
