@@ -6,3 +6,17 @@
 
 
 - On peut faire de la régularisation (Ridge, Lasso, ElasticNet)
+
+
+
+
+https://www.kaggle.com/code/jesucristo/1-house-prices-solution-top-1
+https://www.kaggle.com/code/eisgandar/house-prices-predictions-jump-top-1
+
+
+
+
+
+
+- Vérifier/appliquer correction d'asymétrie sur toutes les variables étalées
+- Vraie sélection de variable selon de r_xy
